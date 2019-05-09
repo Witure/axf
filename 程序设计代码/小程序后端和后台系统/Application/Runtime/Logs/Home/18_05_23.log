@@ -1,0 +1,842 @@
+[ 2018-05-23T19:05:57+08:00 ] 111.37.21.221 /index.php/Home/Wechat/Img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+ERR: 非法操作:Img
+
+[ 2018-05-23T19:16:50+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0021s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2018-05-23T19:16:50+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=001QJoG62HXCxJ0IvNH62fQ7G62QJoGG
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001038s ]
+
+[ 2018-05-23T19:19:54+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0017s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2018-05-23T19:19:54+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=061uS0sP0Rsbma2o4esP0UrhsP0uS0sF
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000772s ]
+
+[ 2018-05-23T19:28:59+08:00 ] 111.37.21.221 /index.php/Home/Wechat/Img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+ERR: 非法操作:Img
+
+[ 2018-05-23T19:29:22+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0390s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0015s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000711s ]
+
+[ 2018-05-23T19:29:22+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=081AYymc0GqyZu1Bpkpc0Uzvmc0AYyma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2018-05-23T19:30:22+08:00 ] 111.37.21.221 /index.php/Home/Wechat/Img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+ERR: 非法操作:Img
+
+[ 2018-05-23T19:37:45+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0018s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2018-05-23T19:37:46+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=001C2yyf1Ox2xz07Jsyf1AwAyf1C2yyf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000752s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000795s ]
+
+[ 2018-05-23T20:02:39+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0133s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0019s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000660s ]
+
+[ 2018-05-23T20:02:40+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=061mVCvZ1gQlj11v8xxZ13RDvZ1mVCvA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2018-05-23T20:05:38+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0015s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000659s ]
+
+[ 2018-05-23T20:05:38+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=011Al45h0QA7rx1juF3h0gnG4h0Al45B
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000714s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
+[ 2018-05-23T20:06:06+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0133s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0016s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2018-05-23T20:06:06+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=061zoGpH0Hbkbi2tjImH0lCMpH0zoGp-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001108s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001177s ]
+
+[ 2018-05-23T20:07:49+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0013s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2018-05-23T20:07:50+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=021yZRRe2CqWNB0qowQe2owHRe2yZRRM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000999s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001044s ]
+
+[ 2018-05-23T20:09:41+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0191s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0025s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000946s ]
+
+[ 2018-05-23T20:09:42+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=0814qfsr1kbrKo0mv9qr1rPnsr14qfsx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000899s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000973s ]
+
+[ 2018-05-23T20:16:53+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0013s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2018-05-23T20:16:54+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=001jrwdy1nSsRh0CQgby1MKWdy1jrwdk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000730s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000776s ]
+
+[ 2018-05-23T20:17:07+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0017s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2018-05-23T20:17:07+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=021NFnJl0gG7Vj1ixiMl0YamJl0NFnJJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000850s ]
+
+[ 2018-05-23T20:17:29+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0184s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0015s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000702s ]
+
+[ 2018-05-23T20:17:30+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=081Isbak1cFKXl03m08k1ekjak1IsbaE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000787s ]
+
+[ 2018-05-23T20:21:26+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0017s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000689s ]
+
+[ 2018-05-23T20:21:26+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=061Dq3Oz0ulrPf1KhnOz0jg7Oz0Dq3Ov
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000818s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000866s ]
+
+[ 2018-05-23T20:22:51+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0016s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000459s ]
+
+[ 2018-05-23T20:22:51+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=061iYqtC1YTmW30siktC1P4gtC1iYqt9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000746s ]
+
+[ 2018-05-23T20:23:52+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0016s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000535s ]
+
+[ 2018-05-23T20:23:52+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=00113AKN0uKE6427eGLN0dOhKN013AKK
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000984s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001047s ]
+
+[ 2018-05-23T20:24:24+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0015s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000604s ]
+
+[ 2018-05-23T20:24:24+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=0717msvM1M9Le41ztcwM1IfavM17msvT
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000758s ]
+
+[ 2018-05-23T20:27:16+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0014s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2018-05-23T20:27:16+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=021OhCdi0CVGdn1UMgci0lHgdi0OhCdc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001668s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000730s ]
+
+[ 2018-05-23T20:28:02+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0014s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000657s ]
+
+[ 2018-05-23T20:28:02+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=001hAyck26esTE02RMdk2iAgck2hAycw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
+[ 2018-05-23T20:28:41+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0017s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000547s ]
+
+[ 2018-05-23T20:28:41+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=0212WEj82L69ZR0kjPh82pTHj822WEj9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001098s ]
+
+[ 2018-05-23T20:31:06+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0159s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0017s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000819s ]
+
+[ 2018-05-23T20:31:06+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=011C3THQ1qA9p81RpGJQ1AHXHQ1C3THO
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000951s ]
+
+[ 2018-05-23T20:33:04+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0017s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000722s ]
+
+[ 2018-05-23T20:33:04+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=001N3At11P2XFZ1o0dt113FIt11N3AtX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000838s ]
+
+[ 2018-05-23T20:34:07+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0096s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0018s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000627s ]
+
+[ 2018-05-23T20:34:07+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=071l9X1C1BnOx30ltf3C1Uj02C1l9X1t
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000703s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000752s ]
+
+[ 2018-05-23T20:41:56+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0018s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2018-05-23T20:41:56+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=021jKfMa2ZrwSP00iZNa25yuMa2jKfM3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000724s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000770s ]
+
+[ 2018-05-23T20:43:07+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0017s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000702s ]
+
+[ 2018-05-23T20:43:08+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=001Ticyw0JBZnj17HPyw03UQxw0TicyK
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000771s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2018-05-23T20:45:05+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0017s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000769s ]
+
+[ 2018-05-23T20:45:05+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=081G1hF628jluJ04yrE62jUiF62G1hF5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000810s ]
+
+[ 2018-05-23T20:47:37+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0111s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0019s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2018-05-23T20:47:38+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=001J2w3D1rcYh20KSl5D1kYy3D1J2w3L
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2018-05-23T20:48:19+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0020s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2018-05-23T20:48:19+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=071cM9wV07QjZV1Fv7vV0Sh9wV0cM9wc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2018-05-23T20:59:09+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0166s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0021s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000812s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+
+[ 2018-05-23T20:59:09+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=071nC3w409kW2D1pJ7x40lKkw40nC3wd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000881s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000930s ]
+
+[ 2018-05-23T21:00:33+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0016s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2018-05-23T21:00:33+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=081pX3fy0K0Uxg1kLjdy0HvZey0pX3fI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000815s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000860s ]
+
+[ 2018-05-23T21:01:04+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0166s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0018s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000699s ]
+
+[ 2018-05-23T21:01:04+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=0217gmYW1kdBgU0VDEYW1SXpYW17gmYA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2018-05-23T21:02:38+08:00 ] 123.131.134.18 /index.php/Home/Wechat/Imgshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `zw_wechat` [ RunTime:0.0015s ]
+SQL: SELECT t1.id,t2.picture as file FROM zw_wechat as t1,zw_wechat as t2 WHERE ( t1.id = t2.id )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2018-05-23T21:02:38+08:00 ] 123.131.134.18 /index.php/Home/Wechat/GetOpenid?code=00182LfA1rUFnf0mjNgA19ssfA182LfS
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 88 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000924s ]
+
+[ 2018-05-23T21:26:29+08:00 ] 111.37.21.221 /index.php/Home/Wechat/Img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+ERR: 非法操作:Img
+

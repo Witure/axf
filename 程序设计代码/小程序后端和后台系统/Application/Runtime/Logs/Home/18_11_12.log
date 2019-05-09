@@ -1,0 +1,2987 @@
+[ 2018-11-12T16:31:12+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/071ebhZF0QSdhk24ufZF04pnZF0ebhZc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000975s ]
+
+[ 2018-11-12T16:31:12+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000694s ]
+
+[ 2018-11-12T16:31:13+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000488s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000726s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000763s ]
+
+[ 2018-11-12T16:58:30+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000856s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000886s ]
+
+[ 2018-11-12T16:58:30+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/021mHMj41MV0IM1THSh41WT3k41mHMjR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000887s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000942s ]
+
+[ 2018-11-12T16:58:30+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001210s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001239s ]
+
+[ 2018-11-12T17:02:56+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2018-11-12T17:02:56+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/0012syTU0cxUiW1C6fQU0DlFTU02syTt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000777s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2018-11-12T17:02:56+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000749s ]
+
+[ 2018-11-12T17:03:25+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000729s ]
+
+[ 2018-11-12T17:03:25+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/0815m4vj00iCTm1Ct9uj00Mmvj05m4vL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000781s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000842s ]
+
+[ 2018-11-12T17:03:25+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2018-11-12T17:06:58+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000810s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000840s ]
+
+[ 2018-11-12T17:06:58+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/001mA1US1EaLo7172kTS1MvgUS1mA1Ur
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000777s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2018-11-12T17:06:58+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000749s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000779s ]
+
+[ 2018-11-12T17:15:46+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/001co9I40iqxMK1KTsI40UicI40co9IW
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000913s ]
+
+[ 2018-11-12T17:15:46+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/user/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000766s ]
+
+[ 2018-11-12T17:16:36+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/061xHPG40TeOKK1Zk1H40hDNG40xHPGd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000798s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000855s ]
+
+[ 2018-11-12T17:16:36+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/user/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000725s ]
+
+[ 2018-11-12T17:16:38+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/001iUUBM1AMKq41aQKBM1yPzBM1iUUBK
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000846s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000905s ]
+
+[ 2018-11-12T17:16:38+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/user/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2018-11-12T17:19:30+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000842s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000874s ]
+
+[ 2018-11-12T17:19:30+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/0711PIp42PTPKM026Do425vDp421PIpF
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000834s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000895s ]
+
+[ 2018-11-12T17:19:31+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000711s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000741s ]
+
+[ 2018-11-12T17:31:21+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000773s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2018-11-12T17:31:21+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/0810sX3n0h2ews10xW5n0sKW3n00sX3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000814s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2018-11-12T17:31:21+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000710s ]
+
+[ 2018-11-12T17:31:26+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/seatid/?show=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+ERR: 非法操作:study
+
+[ 2018-11-12T20:49:13+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2018-11-12T20:49:13+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/001sA5Y81HBA8R1UxZZ81Oc2Y81sA5Yv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001026s ]
+
+[ 2018-11-12T20:49:13+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2018-11-12T20:49:24+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A001&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000468s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000783s ]
+
+[ 2018-11-12T20:50:08+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000782s ]
+
+[ 2018-11-12T20:50:08+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/001GaU2g2wrp7B0vcg4g2pza3g2GaU23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000783s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000866s ]
+
+[ 2018-11-12T20:50:08+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000751s ]
+
+[ 2018-11-12T20:50:13+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A001&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0268s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A001' LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `seat` SET `seatid`='1A001',`status`='2' WHERE `id` = 10 [ RunTime:0.0510s ]
+SQL: SHOW COLUMNS FROM `uselog` [ RunTime:0.0016s ]
+SQL: INSERT INTO `uselog` (`seatid`,`openid`,`addtime`) VALUES ('1A001','o6Pb941bTuieMg1mXTT5kOD4QgIg','1542027013') [ RunTime:0.0234s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0015s ]
+SQL: INSERT INTO `appointment` (`addtime`,`openid`,`seatid`,`status`) VALUES ('1542027013','o6Pb941bTuieMg1mXTT5kOD4QgIg','1A001','1') [ RunTime:0.0101s ]
+SQL: UPDATE `user` SET `openid`='o6Pb941bTuieMg1mXTT5kOD4QgIg',`status`='3' WHERE `id` = 137 [ RunTime:0.0083s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000781s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000814s ]
+
+[ 2018-11-12T20:50:20+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/seatid/?show=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+NOTIC: [8] Undefined index: seatid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001085s ]
+
+[ 2018-11-12T20:53:06+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000844s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000875s ]
+
+[ 2018-11-12T20:53:06+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/061oHoXu0qrZqb1EUVZu0yMAXu0oHoX3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000907s ]
+
+[ 2018-11-12T20:53:07+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.2001s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000657s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000689s ]
+
+[ 2018-11-12T20:53:13+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000881s ]
+
+[ 2018-11-12T20:53:13+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/071v010z0gJfBg1Viw0z0xL50z0v010-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000986s ]
+
+[ 2018-11-12T20:53:14+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.2839s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0974s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000942s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-11-12T20:53:40+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0270s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000763s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2018-11-12T20:53:40+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/071MqFte1ybI2s0Gvjue1LMAte1MqFtK
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000783s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2018-11-12T20:53:40+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0278s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000865s ]
+
+[ 2018-11-12T20:53:45+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A001&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0751s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0355s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0324s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A001' LIMIT 1   [ RunTime:0.0339s ]
+SQL: UPDATE `seat` SET `seatid`='1A001',`status`='2' WHERE `id` = 10 [ RunTime:0.0586s ]
+SQL: SHOW COLUMNS FROM `uselog` [ RunTime:0.0109s ]
+SQL: INSERT INTO `uselog` (`seatid`,`openid`,`addtime`) VALUES ('1A001','o6Pb941bTuieMg1mXTT5kOD4QgIg','1542027225') [ RunTime:0.0077s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0322s ]
+SQL: INSERT INTO `appointment` (`addtime`,`openid`,`seatid`,`status`) VALUES ('1542027225','o6Pb941bTuieMg1mXTT5kOD4QgIg','1A001','1') [ RunTime:0.0566s ]
+SQL: UPDATE `user` SET `openid`='o6Pb941bTuieMg1mXTT5kOD4QgIg',`status`='3' WHERE `id` = 137 [ RunTime:0.2403s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001067s ]
+
+[ 2018-11-12T20:53:49+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?show=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+NOTIC: [8] Undefined index: seatid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0288s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0281s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000910s ]
+
+[ 2018-11-12T20:54:56+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0299s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0325s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000835s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2018-11-12T20:54:56+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/061rTx9H1jP5t80sBF8H1AYm9H1rTx9m
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000797s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000856s ]
+
+[ 2018-11-12T20:54:56+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0642s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0456s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000891s ]
+
+[ 2018-11-12T20:55:05+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A001&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0354s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0506s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0530s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A001' LIMIT 1   [ RunTime:0.0401s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000837s ]
+
+[ 2018-11-12T20:55:11+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?show=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+NOTIC: [8] Undefined index: seatid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0283s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0285s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000798s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000828s ]
+
+[ 2018-11-12T20:59:42+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000815s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000845s ]
+
+[ 2018-11-12T20:59:43+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/071U3Rhz08Uukg1Haykz0jsPhz0U3RhJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001659s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000990s ]
+
+[ 2018-11-12T20:59:43+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0277s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000720s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000750s ]
+
+[ 2018-11-12T20:59:54+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A001&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000783s ]
+
+[ 2018-11-12T20:59:59+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=undefined&openid=undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000787s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000817s ]
+
+[ 2018-11-12T21:02:52+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000801s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000830s ]
+
+[ 2018-11-12T21:02:52+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/001gZSv50gBn5K1mZHw50Ds2w50gZSvB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000823s ]
+
+[ 2018-11-12T21:02:52+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000769s ]
+
+[ 2018-11-12T21:02:57+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=undefined&openid=undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000767s ]
+
+[ 2018-11-12T21:04:21+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000717s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000748s ]
+
+[ 2018-11-12T21:04:22+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/071suwie222iMC0R5vie2xbEie2suwi2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000834s ]
+
+[ 2018-11-12T21:04:22+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000722s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000751s ]
+
+[ 2018-11-12T21:09:29+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000762s ]
+
+[ 2018-11-12T21:09:29+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/081N09CF0Y46yk2mAsBF0VK6CF0N09Cn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2018-11-12T21:09:29+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000726s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2018-11-12T21:10:13+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000655s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+
+[ 2018-11-12T21:10:14+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/0610Q3if0jvFlA18QPif06v4if00Q3iI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000863s ]
+
+[ 2018-11-12T21:10:14+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2018-11-12T21:10:17+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=undefined&openid=undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0185s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000780s ]
+
+[ 2018-11-12T21:10:57+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000646s ]
+
+[ 2018-11-12T21:10:57+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/011pfolK0g9VO62ck4oK0fFjlK0pfolZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000846s ]
+
+[ 2018-11-12T21:10:58+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0763s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000798s ]
+
+[ 2018-11-12T21:11:01+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=undefined&openid=undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000804s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2018-11-12T21:14:23+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0360s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000893s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000928s ]
+
+[ 2018-11-12T21:14:23+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/021TpAED1cHbL20DMwDD1CfrED1TpAEm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000834s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000889s ]
+
+[ 2018-11-12T21:14:23+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001210s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001243s ]
+
+[ 2018-11-12T21:15:44+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000810s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000840s ]
+
+[ 2018-11-12T21:15:44+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/061CzG7a2K3gZP02rA7a2OI08a2CzG7F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000957s ]
+
+[ 2018-11-12T21:15:44+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0418s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000889s ]
+
+[ 2018-11-12T21:19:32+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000724s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000754s ]
+
+[ 2018-11-12T21:19:32+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/081QV0YP0UjRaa2W1ZZP0Gt6YP0QV0YX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000847s ]
+
+[ 2018-11-12T21:19:33+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0307s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000741s ]
+
+[ 2018-11-12T21:19:37+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000771s ]
+
+[ 2018-11-12T21:20:41+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000752s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2018-11-12T21:20:41+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/071bfu8X1iZ52U0KsWaX1LPK8X1bfu8i
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000858s ]
+
+[ 2018-11-12T21:20:41+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0509s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000888s ]
+
+[ 2018-11-12T21:20:45+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 2  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000732s ]
+
+[ 2018-11-12T21:20:47+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000752s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000782s ]
+
+[ 2018-11-12T21:20:51+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2018-11-12T21:21:52+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0578s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0346s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000876s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000908s ]
+
+[ 2018-11-12T21:21:52+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/0612ShPu0U7uAb1tadPu0Yv9Pu02ShPc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000894s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000953s ]
+
+[ 2018-11-12T21:21:52+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0597s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2018-11-12T21:21:56+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0303s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0291s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000861s ]
+
+[ 2018-11-12T21:22:18+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=NaN
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001919s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0426s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000845s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000883s ]
+
+[ 2018-11-12T21:22:26+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A001&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0429s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0389s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0315s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A001' LIMIT 1   [ RunTime:0.0284s ]
+SQL: UPDATE `seat` SET `seatid`='1A001',`status`='2' WHERE `id` = 10 [ RunTime:0.0482s ]
+SQL: SHOW COLUMNS FROM `uselog` [ RunTime:0.0553s ]
+SQL: INSERT INTO `uselog` (`seatid`,`openid`,`addtime`) VALUES ('1A001','o6Pb941bTuieMg1mXTT5kOD4QgIg','1542028946') [ RunTime:0.0372s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0249s ]
+SQL: INSERT INTO `appointment` (`addtime`,`openid`,`seatid`,`status`) VALUES ('1542028946','o6Pb941bTuieMg1mXTT5kOD4QgIg','1A001','1') [ RunTime:0.0098s ]
+SQL: UPDATE `user` SET `openid`='o6Pb941bTuieMg1mXTT5kOD4QgIg',`status`='3' WHERE `id` = 137 [ RunTime:0.0332s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000812s ]
+
+[ 2018-11-12T21:22:29+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=NaN
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0852s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+
+[ 2018-11-12T21:23:04+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0410s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0575s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000821s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+
+[ 2018-11-12T21:23:05+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/021H5fCd1JEKSs0V4SAd1XLjCd1H5fCq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2018-11-12T21:23:05+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0981s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000814s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000849s ]
+
+[ 2018-11-12T21:23:09+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A001&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0354s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0358s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0308s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A001' LIMIT 1   [ RunTime:0.0358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000817s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000852s ]
+
+[ 2018-11-12T21:23:14+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0388s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0288s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000832s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000864s ]
+
+[ 2018-11-12T21:25:04+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0317s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000937s ]
+
+[ 2018-11-12T21:25:04+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/021mY6rg0Gg9az1gRNrg0uparg0mY6re
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000874s ]
+
+[ 2018-11-12T21:25:04+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000776s ]
+
+[ 2018-11-12T21:25:40+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0298s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000741s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000772s ]
+
+[ 2018-11-12T21:25:40+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/021j7tp12lwcSY0aJTp12unEp12j7tp8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000832s ]
+
+[ 2018-11-12T21:25:40+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2018-11-12T21:25:45+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000748s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000779s ]
+
+[ 2018-11-12T21:26:22+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0346s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000780s ]
+
+[ 2018-11-12T21:26:23+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/061VhVA21jDMsO1ioeC2161fB21VhVAB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000857s ]
+
+[ 2018-11-12T21:26:23+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000484s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000784s ]
+
+[ 2018-11-12T21:26:27+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0340s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2018-11-12T21:27:07+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000826s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000857s ]
+
+[ 2018-11-12T21:27:07+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/021e4pT80NiXIG1rQoS80zF5T80e4pTg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000831s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000890s ]
+
+[ 2018-11-12T21:27:07+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0365s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000816s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000849s ]
+
+[ 2018-11-12T21:27:11+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%22%22%2C%22__webviewId__%22%3A123%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000749s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000779s ]
+
+[ 2018-11-12T21:28:43+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000772s ]
+
+[ 2018-11-12T21:28:43+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/021jibd11gmXVY1Amgd11lJrd11jibdm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000822s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000880s ]
+
+[ 2018-11-12T21:28:43+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0521s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000810s ]
+
+[ 2018-11-12T21:28:48+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%22%22%2C%22__webviewId__%22%3A126%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000748s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000778s ]
+
+[ 2018-11-12T21:29:50+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000785s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2018-11-12T21:29:51+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/0712BnQT1cBAh614CmPT1RPyQT12BnQO
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000866s ]
+
+[ 2018-11-12T21:29:51+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000778s ]
+
+[ 2018-11-12T21:29:54+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%22%22%2C%22__webviewId__%22%3A129%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000703s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000737s ]
+
+[ 2018-11-12T21:30:29+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000960s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001003s ]
+
+[ 2018-11-12T21:30:29+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/011MFoN0017MIF1cUlO00TJcN00MFoNh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000949s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001013s ]
+
+[ 2018-11-12T21:30:29+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0504s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000898s ]
+
+[ 2018-11-12T21:30:49+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%22%22%2C%22__webviewId__%22%3A132%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0305s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0474s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000841s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000878s ]
+
+[ 2018-11-12T21:36:27+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000730s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000762s ]
+
+[ 2018-11-12T21:36:27+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/001YTiMv03n0La1Z3wLv0ESfMv0YTiMP
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000870s ]
+
+[ 2018-11-12T21:36:27+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000790s ]
+
+[ 2018-11-12T21:37:30+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000779s ]
+
+[ 2018-11-12T21:37:31+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/081awQSE1eBvE10t6CPE1q0PSE1awQSq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000757s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000847s ]
+
+[ 2018-11-12T21:37:31+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000781s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000813s ]
+
+[ 2018-11-12T21:37:40+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%221A001%22%2C%22__webviewId__%22%3A136%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000749s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000779s ]
+
+[ 2018-11-12T21:39:46+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000889s ]
+
+[ 2018-11-12T21:39:47+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/011NU0O20TM9HD1z6SM20mjiO20NU0OL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2018-11-12T21:39:47+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000766s ]
+
+[ 2018-11-12T21:39:53+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%221A001%22%2C%22__webviewId__%22%3A139%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000722s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000751s ]
+
+[ 2018-11-12T21:44:31+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000809s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000838s ]
+
+[ 2018-11-12T21:44:32+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/071bJldG1wt1900D5dcG1d4mdG1bJlde
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000862s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000917s ]
+
+[ 2018-11-12T21:44:32+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001208s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001239s ]
+
+[ 2018-11-12T21:44:43+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%22%22%2C%22__webviewId__%22%3A142%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000454s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000717s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000755s ]
+
+[ 2018-11-12T21:45:26+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2018-11-12T21:45:27+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/021bQlwd2tstHD0R6Nsd2Y89wd2bQlwA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000749s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000804s ]
+
+[ 2018-11-12T21:45:27+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2018-11-12T21:45:40+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%221A001%22%2C%22__webviewId__%22%3A146%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000696s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000726s ]
+
+[ 2018-11-12T21:51:53+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000848s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000877s ]
+
+[ 2018-11-12T21:51:53+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/001sFE6i1vY1nx0CTd5i1lCk6i1sFE6H
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000820s ]
+
+[ 2018-11-12T21:51:53+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000771s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2018-11-12T21:52:05+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%22%E7%BB%93%E6%9E%9C%3A1A001%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%B1%BB%E5%9E%8B%3AQR_CODE%E5%AD%97%E7%AC%A6%E9%9B%86%3AUTF-8%E8%B7%AF%E5%BE%84%3Aundefined%22%2C%22__webviewId__%22%3A149%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000769s ]
+
+[ 2018-11-12T21:53:09+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2018-11-12T21:53:10+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/011sA3Au0dkyPb1cjTvu09M6Au0sA3Ab
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000793s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000849s ]
+
+[ 2018-11-12T21:53:10+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000650s ]
+
+[ 2018-11-12T21:53:23+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%22%22%2C%22__webviewId__%22%3A152%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2018-11-12T21:54:04+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000869s ]
+
+[ 2018-11-12T21:54:04+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/071DCxaa0vgFmw1QRtca0JGDaa0DCxaV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001130s ]
+
+[ 2018-11-12T21:54:04+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0368s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000824s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000859s ]
+
+[ 2018-11-12T21:54:12+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%22%22%2C%22__webviewId__%22%3A155%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2018-11-12T21:55:24+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0614s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000837s ]
+
+[ 2018-11-12T21:55:24+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/021bEVCx0xry0i178mBx0jwdDx0bEVCc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2018-11-12T21:55:24+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0517s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000728s ]
+
+[ 2018-11-12T21:55:31+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%221A001%22%2C%22__webviewId__%22%3A158%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000787s ]
+
+[ 2018-11-12T21:59:42+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000815s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000844s ]
+
+[ 2018-11-12T21:59:42+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/0616PY2S0OyGd82w464S0c093S06PY24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000770s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2018-11-12T21:59:42+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0278s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000737s ]
+
+[ 2018-11-12T22:00:07+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000735s ]
+
+[ 2018-11-12T22:00:08+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/071Cm7gb1Mzt8v0j5Kfb1m8Ufb1Cm7gw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000865s ]
+
+[ 2018-11-12T22:00:08+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2018-11-12T22:00:16+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%221A001%22%2C%22__webviewId__%22%3A162%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0279s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000802s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2018-11-12T22:02:32+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000841s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000877s ]
+
+[ 2018-11-12T22:02:32+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/001xyuyP0lqnya2yAXwP0zHyyP0xyuyJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2018-11-12T22:02:33+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0287s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2018-11-12T22:02:39+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=1A002
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2018-11-12T22:06:29+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000813s ]
+
+[ 2018-11-12T22:06:30+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/0816Ksxr19X75o0W5jur14Rmxr16KsxW
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001094s ]
+
+[ 2018-11-12T22:06:30+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0296s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2018-11-12T22:08:05+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000749s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000783s ]
+
+[ 2018-11-12T22:08:05+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/011RerHA0cI9ug2J44HA0bWqHA0RerH9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000900s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000961s ]
+
+[ 2018-11-12T22:08:05+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0624s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000764s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000795s ]
+
+[ 2018-11-12T22:08:45+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000846s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000875s ]
+
+[ 2018-11-12T22:08:45+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/021jqjds0gzHhe13fyds0hUpds0jqjdb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000789s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000850s ]
+
+[ 2018-11-12T22:08:45+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0335s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2018-11-12T22:08:52+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%221A002%22%2C%22__webviewId__%22%3A174%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2018-11-12T22:09:36+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A002&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A002' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000842s ]
+
+[ 2018-11-12T22:09:46+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%221A002%22%2C%22__webviewId__%22%3A174%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0438s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000817s ]
+
+[ 2018-11-12T22:10:07+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A002&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A002' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000790s ]
+
+[ 2018-11-12T22:10:18+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A001&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000728s ]
+
+[ 2018-11-12T22:10:26+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%221A001%22%2C%22__webviewId__%22%3A174%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0291s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000741s ]
+
+[ 2018-11-12T22:16:34+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000866s ]
+
+[ 2018-11-12T22:16:34+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/001ckbY41EppdM1LelX41rNXX41ckbYH
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000885s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000946s ]
+
+[ 2018-11-12T22:16:34+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0288s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000810s ]
+
+[ 2018-11-12T22:16:51+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%221A001%22%2C%22__webviewId__%22%3A177%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0279s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000813s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000843s ]
+
+[ 2018-11-12T22:17:24+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000784s ]
+
+[ 2018-11-12T22:17:24+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/021S22WO1sDCh21eoZTO1GT0WO1S22W9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2018-11-12T22:17:24+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0368s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000991s ]
+
+[ 2018-11-12T22:17:32+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%221A001%22%2C%22__webviewId__%22%3A180%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000841s ]
+
+[ 2018-11-12T22:18:03+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0352s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000778s ]
+
+[ 2018-11-12T22:18:03+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/081FcDCZ1O68u01Q5dDZ1KulCZ1FcDCL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000832s ]
+
+[ 2018-11-12T22:18:03+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0314s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000771s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000799s ]
+
+[ 2018-11-12T22:21:08+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000848s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000876s ]
+
+[ 2018-11-12T22:21:08+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/0614jmNo06QfQq1GtPPo0WgaNo04jmNF
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2018-11-12T22:21:08+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0275s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000733s ]
+
+[ 2018-11-12T22:21:16+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%221A001%22%2C%22__webviewId__%22%3A184%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000787s ]
+
+[ 2018-11-12T22:22:29+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2018-11-12T22:22:29+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/021yu0gV1RdwLV05uHhV1lP7gV1yu0gl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000803s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000864s ]
+
+[ 2018-11-12T22:22:29+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0578s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2018-11-12T22:22:36+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%221A001%22%2C%22__webviewId__%22%3A187%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0486s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000814s ]
+
+[ 2018-11-12T22:23:06+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000751s ]
+
+[ 2018-11-12T22:23:06+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/081AnPDi0qtCJn15PXCi04M0Ei0AnPD9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000811s ]
+
+[ 2018-11-12T22:23:06+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2018-11-12T22:23:15+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/?seatid=%7B%22show%22%3A%221A001%22%2C%22__webviewId__%22%3A190%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0323s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000858s ]
+
+[ 2018-11-12T22:24:32+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0339s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2018-11-12T22:24:32+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/021m4Wj814RdQR1cTGi818NYj81m4WjE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000893s ]
+
+[ 2018-11-12T22:24:32+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000813s ]
+
+[ 2018-11-12T22:24:39+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/[object%20Object]
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+NOTIC: [8] Undefined index: seatid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0405s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001015s ]
+
+[ 2018-11-12T22:25:40+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/061tNJKP0RP9xa2610LP0vGBKP0tNJKG
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000874s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000932s ]
+
+[ 2018-11-12T22:25:40+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/user/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000825s ]
+
+[ 2018-11-12T22:25:55+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A001&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0580s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000748s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000778s ]
+
+[ 2018-11-12T22:26:01+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A002&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A002' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000727s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000755s ]
+
+[ 2018-11-12T22:26:07+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A002&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0274s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A002' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000696s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2018-11-12T22:26:11+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A001&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000754s ]
+
+[ 2018-11-12T22:26:18+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2018-11-12T22:26:18+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/081bwlgJ0n7l1h24nceJ0BmagJ0bwlgX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000844s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000900s ]
+
+[ 2018-11-12T22:26:18+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000732s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000762s ]
+
+[ 2018-11-12T22:26:21+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A001&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000807s ]
+
+[ 2018-11-12T22:26:26+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/appointment?seatid=1A002&openid=o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000454s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0420s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A002' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
+[ 2018-11-12T22:26:37+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/[object%20Object]
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000454s ]
+NOTIC: [8] Undefined index: seatid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2018-11-12T22:27:03+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/study/[object%20Object]
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+NOTIC: [8] Undefined index: seatid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0329s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000759s ]
+
+[ 2018-11-12T22:27:39+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2018-11-12T22:27:39+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/openid/code/061QKw4Z0fui312yCg2Z02QD4Z0QKw4R
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000813s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000875s ]
+
+[ 2018-11-12T22:27:40+08:00 ] 188.131.173.42 /tsg/index.php/Home/Wechat/seachuser/openid/o6Pb941bTuieMg1mXTT5kOD4QgIg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0285s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'o6Pb941bTuieMg1mXTT5kOD4QgIg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000773s ]
+

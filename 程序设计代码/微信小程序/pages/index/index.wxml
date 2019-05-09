@@ -1,0 +1,7 @@
+<view class="tex">
+<view>  
+  <view bindtap="click">
+  <button class ="color_size">点我获取座位信息</button> </view>  
+  <view>{{show}}</view>  
+</view>
+</view>

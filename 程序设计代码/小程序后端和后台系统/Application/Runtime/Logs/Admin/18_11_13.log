@@ -1,0 +1,435 @@
+[ 2018-11-13T02:18:14+08:00 ] 101.226.79.190 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+SQL: UPDATE `seat` SET `seatid`='1A001',`floor`='1',`area`='A',`num`='001',`status`='3' WHERE `id` = 10 [ RunTime:0.0120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000910s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000945s ]
+
+[ 2018-11-13T23:01:58+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:02:50+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:02:54+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:03:22+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:03:23+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:03:23+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:03:24+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:03:24+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:03:24+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:03:24+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:03:24+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:03:24+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:04:44+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:04:45+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:04:46+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:04:46+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:04:46+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:04:46+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:04:49+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:05:48+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:05:48+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:05:49+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:05:49+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:05:49+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:05:49+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:06:14+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:06:15+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:06:16+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:06:16+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:06:16+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:06:16+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:06:16+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:06:16+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:06:16+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:06:17+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:06:18+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:06:18+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:06:18+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:06:19+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:06:25+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000550s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-11-13T23:07:48+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE `status` = 3  [ RunTime:0.0015s ]
+SQL: UPDATE `user` SET `openid`='o6Pb941bTuieMg1mXTT5kOD4QgIg',`name`='张文豪',`sex`='1',`studyid`='201709160126',`unit`='信息科学与工程学院',`major`='通信工程',`class`='2017级本科01班',`phone`='17860658921',`addtime`='1541691046',`integral`='100',`picture`=NULL,`status`='3' WHERE `id` = 137 [ RunTime:0.0062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000872s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000904s ]
+
+[ 2018-11-13T23:08:52+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0305s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0283s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0321s ]
+SQL: SELECT * FROM `user` WHERE `status` = 3  [ RunTime:0.0293s ]
+SQL: UPDATE `seat` SET `seatid`='2A002',`floor`='2',`area`='A',`num`='002',`status`='3' WHERE `id` = 2 [ RunTime:0.0429s ]
+SQL: UPDATE `user` SET `openid`='o6Pb941bTuieMg1mXTT5kOD4QgIg',`name`='张文豪',`sex`='1',`studyid`='201709160126',`unit`='信息科学与工程学院',`major`='通信工程',`class`='2017级本科01班',`phone`='17860658921',`addtime`='1541691046',`integral`='100',`picture`=NULL,`status`='3' WHERE `id` = 137 [ RunTime:0.0366s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000925s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000960s ]
+
+[ 2018-11-13T23:11:34+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE `status` = 3  [ RunTime:0.0002s ]
+
+[ 2018-11-13T23:12:21+08:00 ] 112.8.47.189 /tsg/index.php/admin/user/study
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `status` = 2  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE `status` = 3  [ RunTime:0.0003s ]
+SQL: UPDATE `user` SET `openid`='o6Pb941bTuieMg1mXTT5kOD4QgIg',`name`='张文豪',`sex`='1',`studyid`='201709160126',`unit`='信息科学与工程学院',`major`='通信工程',`class`='2017级本科01班',`phone`='17860658921',`addtime`='1541691046',`integral`='100',`picture`=NULL,`status`='2' WHERE `id` = 137 [ RunTime:0.0106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000932s ]
+

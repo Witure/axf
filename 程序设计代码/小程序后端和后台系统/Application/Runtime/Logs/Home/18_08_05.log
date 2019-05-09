@@ -1,0 +1,94 @@
+[ 2018-08-05T02:37:10+08:00 ] 112.224.2.36 /index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2018-08-05T02:37:10+08:00 ] 112.224.2.36 /index.php/Home/Wechat/openid/code/033gw1nj1vE4Iw0MQZlj1TUPmj1gw1nF
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000587s ]
+
+[ 2018-08-05T19:01:08+08:00 ] 211.64.240.239 /index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2018-08-05T19:01:09+08:00 ] 211.64.240.239 /index.php/Home/Wechat/openid/code/021cw1Rc2ZomNE03vmRc2WZUQc2cw1RW
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 18 行.
+NOTIC: [8] Undefined index: session_key C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000506s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000542s ]
+
+[ 2018-08-05T19:01:09+08:00 ] 211.64.240.239 /index.php/Home/Wechat/seachuser/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `user` WHERE `openid` = '' LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000367s ]
+
+[ 2018-08-05T19:01:10+08:00 ] 211.64.240.239 /index.php/Home/Wechat//openid/code/071HzpEi2Vdi1I05UqDi2UboEi2HzpEh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+NOTIC: [8] Undefined index: openid C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 18 行.
+NOTIC: [8] Undefined index: session_key C:\wwwroot\lyutu.lyu520.cn\Application\Home\Controller\WechatController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2018-08-05T20:18:40+08:00 ] 211.64.240.239 /index.php/Home/Wechat/GetOpenid?code=071lhUU70D4JiI163PU70ofCU70lhUUJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+ERR: 非法操作:GetOpenid
+
+[ 2018-08-05T20:18:46+08:00 ] 211.64.240.239 /index.php/Home/Wechat/GetOpenid?code=081Ldr2t1B7gOc0Qy80t1YmK2t1Ldr2y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+ERR: 非法操作:GetOpenid
+

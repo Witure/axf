@@ -1,0 +1,26 @@
+[ 2018-10-01T22:25:58+08:00 ] 112.224.17.253 /index.php/Home/Wechat/openid/code/023h2xfI1NVQY60xZxeI1idMfI1h2xf1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000719s ]
+
+[ 2018-10-01T22:25:59+08:00 ] 112.224.17.253 /index.php/Home/Wechat/code/openid/oTacg0dHE-WTz4r3p4fMmJMiEyFg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `appointment` WHERE `openid` = 'oTacg0dHE-WTz4r3p4fMmJMiEyFg' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'oTacg0dHE-WTz4r3p4fMmJMiEyFg' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+

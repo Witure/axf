@@ -1,0 +1,26 @@
+<!--使用animation属性指定需要执行的动画-->  
+<view animation="{{animationData}}" class="drawer_box" wx:if="{{showModalStatus}}"> 
+   
+  <!--drawer content-->  
+  <view class="drawer_title">本次学习时长</view> 
+  <view class="drawer_content"> 
+    <view class="top grid"> 
+      <label class="title col-0">小时</label> 
+      <input class="input_base input_h30 col-1" name="rName" value="0" disabled='true'></input> 
+    </view> 
+    <view class="top grid"> 
+      <label class="title col-0">分钟</label> 
+      <input class="input_base input_h30 col-1" name="mobile" value="0" disabled='true'></input> 
+    </view> 
+    <view class="top grid"> 
+      <label class="title col-0">秒</label> 
+      <input class="input_base input_h30 col-1" name="phone" value="0" disabled='true'></input> 
+    </view> 
+    <view class="top grid"> 
+      <label class="title col-0">超过了</label> 
+      <input class="input_base input_h30 col-1" name="phone" value="本校5%的同学"></input> 
+    </view> 
+     
+  </view> 
+  <view class="btn_ok" bindtap="powerDrawer" data-statu="close">确定</view> 
+</view>

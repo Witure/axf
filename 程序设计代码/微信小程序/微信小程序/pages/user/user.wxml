@@ -1,0 +1,60 @@
+<view animation="{{animationData}}" class="drawer_box" wx:if="{{showModalStatus}}"> 
+   
+  <!--drawer content-->  
+  <view class="drawer_title">本次学习时长</view> 
+  <view class="drawer_content"> 
+    <view class="top grid"> 
+      <label class="title col-0">小时</label> 
+      <input class="input_base input_h30 col-1" name="rName" value="{{length.hour}}时" disabled='true'></input> 
+    </view> 
+    <view class="top grid"> 
+      <label class="title col-0">分钟</label> 
+      <input class="input_base input_h30 col-1" name="mobile" value="{{length.min}}分" disabled='true'></input> 
+    </view> 
+    <view class="top grid"> 
+      <label class="title col-0">秒钟</label> 
+      <input class="input_base input_h30 col-1" name="phone" value="{{length.second}}秒" disabled='true'></input> 
+    </view> 
+    <view class="top grid"> 
+      <label class="title col-0">成绩</label> 
+      <input class="input_base input_h30 col-1" name="phone" value="超过了本校{{length.score}}%的同学"></input> 
+    </view> 
+     
+  </view> 
+  <view class="btn_ok" bindtap="powerDrawer" data-statu="close">确定</view> 
+</view>
+
+
+<view class='top'>
+  <view class="container">
+    <view  class="userinfo">
+      <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
+      <text class="userinfo-nickname">{{userlist.name}}</text>
+    </view>
+    <view class="usermotto">
+      <text class="user-motto">{{userlist.studyid}}</text>
+    </view>
+  </view>
+
+  <view class="information">
+    <view class="two">
+      <view class="two-1"></view>
+      <view class="two-2">学院：{{userlist.unit}}</view>
+    </view>
+    <view class="three">
+      <view class="three-1"></view>
+      <view class="three-2">专业：{{userlist.major}}</view>
+    </view>
+     <view class="three">
+      <view class="three-1"></view>
+      <view class="three-2">班级：{{userlist.class}}</view>
+    </view>
+    <view class="four">
+      <view class="four-1"></view>
+      <view class="four-2">信誉积分：{{userlist.integral}}</view>
+    </view>
+  </view>
+  <view class='kong'></view>
+  <button size="mini" class='btn-gai' bindtap='exit' hidden='{{hidden}}'>离馆</button>
+  
+</view>

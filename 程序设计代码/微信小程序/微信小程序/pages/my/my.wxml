@@ -1,0 +1,39 @@
+
+
+<view class='top'>
+  <view class='photo'>
+    <open-data type="userAvatarUrl"></open-data>
+  </view>
+  <view>{{userlist.name}}</view>
+  <view>{{userlist.studyid}}</view>
+</view>
+
+
+
+<view class='center'>
+<view class="navs">
+  <block wx:for="{{navs1}}">
+
+    <view class="nav-item">
+      <navigator url="{{item.url}}" hover-class="other-navigator-hover">
+        <image src="{{item.icon}}" class="nav-image" />
+        <text>{{item.name}}</text>
+      </navigator>
+    </view>
+
+  </block>
+</view>
+
+<view class="navs">
+  <block wx:for="{{navs2}}">
+
+    <view class="nav-item">
+      <navigator url="{{item.url}}" hover-class="other-navigator-hover">
+        <image src="{{item.icon}}" class="nav-image" />
+        <text>{{item.name}}</text>
+      </navigator>
+    </view>
+
+  </block>
+</view>
+</view>

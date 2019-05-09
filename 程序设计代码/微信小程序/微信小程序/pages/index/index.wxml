@@ -1,0 +1,7 @@
+<view class='notice'>
+温馨提示：二维码会自动更新，扫码签到前，请下拉刷新此页面哦
+</view>
+
+<view class='pic-box'>
+<image src="{{url}}" class='codepic'></image>
+</view>

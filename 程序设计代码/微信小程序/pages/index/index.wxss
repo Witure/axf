@@ -1,0 +1,19 @@
+page {
+  display: block;
+  min-height: 100%;
+  background-color: rgba(236, 206, 39, 0.295);
+}
+.title{
+  border-bottom: 1px solid #cccccc;
+  display: inline-block;
+  padding: 20rpx 40rpx;
+}
+.tex{
+  text-align: center;
+  padding: 450rpx 50rpx;
+}
+.color_size{
+  background-color: rgba(241, 167, 9, 0.637);
+  height: 50px;
+  width: 180px;
+}

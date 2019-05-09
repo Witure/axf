@@ -1,0 +1,47 @@
+{
+  "pages": [
+    
+    "pages/application/index",
+    "pages/login/login",
+    "pages/index/index",
+    "pages/my/my",
+    "pages/user/user",
+    "pages/user/updata",
+
+    "pages/test/test",
+
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#EEE8CD",
+    "navigationBarTitleText": "电子图书馆",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "color": "#bfbfbf",
+    "selectedColor": "#000",
+    "backgroundColor": "#EEE8CD",
+    "list": [
+      {
+        "pagePath": "pages/application/index",
+        "text": "在线预约",
+        "iconPath": "/img/appion.png",
+        "selectedIconPath": "/img/appion_c.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "到馆签到",
+        "iconPath": "/img/code.png",
+        "selectedIconPath": "/img/code_c.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "个人中心",
+        "iconPath": "/img/my.png",
+        "selectedIconPath": "/img/my_c.png"
+      }
+    ]
+  }
+}

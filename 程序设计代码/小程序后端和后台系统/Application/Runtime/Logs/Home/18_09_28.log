@@ -1,0 +1,48 @@
+[ 2018-09-28T10:43:53+08:00 ] 111.37.20.131 /index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017194s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016979s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017038s ]
+
+[ 2018-09-28T10:43:53+08:00 ] 111.37.20.131 /index.php/Home/Wechat/openid/code/023SdLub2DGC4P0V6Fwb2aONub2SdLuQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000902s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000986s ]
+
+[ 2018-09-28T10:43:54+08:00 ] 111.37.20.131 /index.php/Home/Wechat/seachuser/openid/oTacg0Sv-HTXmy94H6f7eBa-8Ero
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0163s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'oTacg0Sv-HTXmy94H6f7eBa-8Ero' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2018-09-28T10:43:57+08:00 ] 111.37.20.131 /index.php/Home/Wechat//openid/code/033T0PV91KytDQ140cX915aRV91T0PV-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+

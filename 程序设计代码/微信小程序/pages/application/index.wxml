@@ -1,0 +1,33 @@
+<button wx:if="{{canIUse}}" open-type="getUserInfo" bindgetuserinfo="bindGetUserInfo">{{display?'授权登录':''}}</button>
+
+
+<view class='button'>
+  <view wx:for="{{floor}}">
+
+    <button id="{{item.id}}" class='floor' bindtap='floor' style='background-color:{{item.color}}'>{{item.name}}</button>
+
+  </view>
+</view>
+
+<view class="separate"></view>
+
+<view class='group'>
+  <view wx:for="{{list}}" class='icon-box'>
+
+    <image bindtap='icon' id='{{item.seatid}}' status='{{item.status}}' src="/img/gray.png" class="icon" wx:if="{{item.status==1}}" />
+    <image bindtap='icon' id='{{item.seatid}}' src="/img/yellow.png" class="icon" wx:elif="{{item.status==2}}" />
+    <image bindtap='icon' id='{{item.seatid}}' src="/img/red.png" class="icon" wx:elif="{{item.status==3}}" />
+    <image bindtap='icon' id='{{item.seatid}}' src="/img/gray.png" class="icon" wx:elif="{{item.status==4}}" />
+    <text class='seatid' bindtap='icon' id='{{item.seatid}}'>{{item.seatid}}</text>
+
+  </view>
+</view>
+
+
+<view class='seat_select'>
+  <text class='btn-text'>选中座位：{{seat_select}}</text>
+
+</view>
+<view class='btn-ok' bindtap='btn_ok'>
+  <view class='btn-ok-text'>确认预约</view>
+</view>

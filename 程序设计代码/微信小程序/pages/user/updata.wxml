@@ -1,0 +1,29 @@
+<!--pages/mobile/mobile.wxml-->
+<view class="mobileMain">
+
+  <view class="mbTxing">
+    修改个人信息
+  </view>
+
+  <form bindsubmit="formBindsubmit" bindreset="formReset">
+    <view class="userinfo">
+      <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </view>
+
+    <view class="mbInput">
+      <input name="genDer" value="{{userInfo.gender}}" style="display:none" />
+      <input class="tels" name="name" placeholder="请输入您的姓名"  type="text" />
+      <input class="tels" name="unit" placeholder="请输入您的学院"  type="text" />
+      <input class="tels" name="major" placeholder="请输入您的专业"  type="text" />
+      <input class="tels" name="class" placeholder="请输入您的班级"  type="text" />
+      
+    </view>
+
+    <view class="mbBtn">
+      <button class="vBtn_add" form-type="submit" bindtap="nextStep">提交保存</button>
+    </view>
+  </form>
+
+
+</view>

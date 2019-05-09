@@ -1,0 +1,579 @@
+[ 2018-11-11T20:28:58+08:00 ] 112.8.44.45 /tsg/index.php/home/wechart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010899s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002296s ]
+ERR: 无法加载控制器:Wechart
+
+[ 2018-11-11T20:29:11+08:00 ] 112.8.44.45 /tsg/index.php/home/wechart/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+ERR: 无法加载控制器:Wechart
+
+[ 2018-11-11T20:29:22+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechart/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001482s ]
+ERR: 无法加载控制器:Wechart
+
+[ 2018-11-11T20:29:59+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014789s ]
+
+[ 2018-11-11T20:29:59+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/openid/code/023sbUR82uvAhR0todU82BhIR82sbURl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 18 行.
+NOTIC: [8] Undefined index: session_key C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000854s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000896s ]
+
+[ 2018-11-11T20:30:00+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/seachuser/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `openid` = '' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000858s ]
+
+[ 2018-11-11T20:30:04+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/openid/code/033qeo5J0q0Mch2FeS6J0Ru65J0qeo5k
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 18 行.
+NOTIC: [8] Undefined index: session_key C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000902s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000954s ]
+
+[ 2018-11-11T20:30:05+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/user/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0445s ]
+SQL: SELECT * FROM `user` WHERE `openid` = null LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000993s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001038s ]
+
+[ 2018-11-11T20:30:07+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/openid/code/023tKhSh0MnWKx16PaSh07awSh0tKhSv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 18 行.
+NOTIC: [8] Undefined index: session_key C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001293s ]
+
+[ 2018-11-11T20:30:07+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/code/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `appointment` WHERE `openid` = null AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `user` WHERE `openid` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000748s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2018-11-11T20:30:10+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/openid/code/033kEmTv1ohgCa0JzNUv1j6bTv1kEmTU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000538s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 18 行.
+NOTIC: [8] Undefined index: session_key C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2018-11-11T20:30:10+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/code/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0546s ]
+SQL: SELECT * FROM `appointment` WHERE `openid` = null AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `user` WHERE `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000745s ]
+
+[ 2018-11-11T20:32:28+08:00 ] 111.37.21.151 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000813s ]
+
+[ 2018-11-11T20:32:28+08:00 ] 111.37.21.151 /tsg/index.php/Home/Wechat/openid/code/the%20code%20is%20a%20mock%20one
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/sns/jscode2session?appid=wx7e5fe95a450a864c&amp;secret=16705bc43e69dda5545f7ab78b649c17&amp;js_code=the code is a mock one&amp;grant_type=authorization_code): failed to open stream: HTTP request failed! code is a mock one&amp;grant_type=authorization_code HTTP/1.0 200 OK
+ C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 15 行.
+NOTIC: [2] get_object_vars() expects parameter 1 to be object, null given C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000890s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000932s ]
+
+[ 2018-11-11T20:32:28+08:00 ] 111.37.21.151 /tsg/index.php/Home/Wechat/seachuser/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0292s ]
+SQL: SELECT * FROM `user` WHERE `openid` = '' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000767s ]
+
+[ 2018-11-11T20:33:52+08:00 ] 111.37.21.151 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000731s ]
+
+[ 2018-11-11T20:33:52+08:00 ] 111.37.21.151 /tsg/index.php/Home/Wechat/openid/code/the%20code%20is%20a%20mock%20one
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/sns/jscode2session?appid=wx7e5fe95a450a864c&amp;secret=16705bc43e69dda5545f7ab78b649c17&amp;js_code=the code is a mock one&amp;grant_type=authorization_code): failed to open stream: HTTP request failed! code is a mock one&amp;grant_type=authorization_code HTTP/1.0 200 OK
+ C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 15 行.
+NOTIC: [2] get_object_vars() expects parameter 1 to be object, null given C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000741s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000778s ]
+
+[ 2018-11-11T20:33:52+08:00 ] 111.37.21.151 /tsg/index.php/Home/Wechat/seachuser/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `user` WHERE `openid` = '' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2018-11-11T20:34:00+08:00 ] 111.37.21.151 /tsg/index.php/Home/Wechat/seat/floor/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003574s ]
+
+[ 2018-11-11T20:34:00+08:00 ] 111.37.21.151 /tsg/index.php/Home/Wechat/openid/code/the%20code%20is%20a%20mock%20one
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/sns/jscode2session?appid=wx7e5fe95a450a864c&amp;secret=16705bc43e69dda5545f7ab78b649c17&amp;js_code=the code is a mock one&amp;grant_type=authorization_code): failed to open stream: HTTP request failed! code is a mock one&amp;grant_type=authorization_code HTTP/1.0 200 OK
+ C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 15 行.
+NOTIC: [2] get_object_vars() expects parameter 1 to be object, null given C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000907s ]
+
+[ 2018-11-11T20:34:01+08:00 ] 111.37.21.151 /tsg/index.php/Home/Wechat/seachuser/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001556s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `user` WHERE `openid` = '' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001069s ]
+
+[ 2018-11-11T20:35:00+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/appointment?seatid=1A002&openid=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `user` WHERE `openid` = '' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seat` WHERE `seatid` = '1A002' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000911s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000970s ]
+
+[ 2018-11-11T20:35:02+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/seat/floor/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+SQL: SHOW COLUMNS FROM `seat` [ RunTime:0.0327s ]
+SQL: SELECT * FROM `seat` WHERE `floor` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000717s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000749s ]
+
+[ 2018-11-11T20:35:06+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/openid/code/023KEj401kkv302Ut2301ccA401KEj4k
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 18 行.
+NOTIC: [8] Undefined index: session_key C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000777s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000817s ]
+
+[ 2018-11-11T20:35:07+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/code/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `appointment` WHERE `openid` = null AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `user` WHERE `openid` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000744s ]
+
+[ 2018-11-11T20:35:08+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/openid/code/033qgS6y1Weqnh0TjG8y1aoc7y1qgS60
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 18 行.
+NOTIC: [8] Undefined index: session_key C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000814s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000855s ]
+
+[ 2018-11-11T20:35:08+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/code/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0317s ]
+SQL: SELECT * FROM `appointment` WHERE `openid` = null AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `user` WHERE `openid` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000788s ]
+
+[ 2018-11-11T20:35:10+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/openid/code/0334ymho1Qrcgi0IU9go1Sx2ho14ymhI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 18 行.
+NOTIC: [8] Undefined index: session_key C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001044s ]
+
+[ 2018-11-11T20:35:10+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/code/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `appointment` WHERE `openid` = null AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `user` WHERE `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000738s ]
+
+[ 2018-11-11T20:35:11+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/openid/code/033ZCqsj2cnoNG0XEVqj2pvlsj2ZCqsn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 18 行.
+NOTIC: [8] Undefined index: session_key C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2018-11-11T20:35:11+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/code/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.1380s ]
+SQL: SELECT * FROM `appointment` WHERE `openid` = null AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `user` WHERE `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000726s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000754s ]
+
+[ 2018-11-11T20:35:13+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/openid/code/033EaggH11Epm80lVlgH1gnagH1Eagg0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 18 行.
+NOTIC: [8] Undefined index: session_key C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000822s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000864s ]
+
+[ 2018-11-11T20:35:13+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/code/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `appointment` WHERE `openid` = null AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `user` WHERE `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000780s ]
+
+[ 2018-11-11T20:35:14+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/openid/code/033lNKka1Dt9XP1gmLma1LdSka1lNKk1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 18 行.
+NOTIC: [8] Undefined index: session_key C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000786s ]
+
+[ 2018-11-11T20:35:14+08:00 ] 112.8.44.45 /tsg/index.php/Home/Wechat/code/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0300s ]
+SQL: SELECT * FROM `appointment` WHERE `openid` = null AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `user` WHERE `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000723s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000752s ]
+
+[ 2018-11-11T20:39:52+08:00 ] 111.37.21.151 /tsg/index.php/Home/Wechat/openid/code/the%20code%20is%20a%20mock%20one
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/sns/jscode2session?appid=wx7e5fe95a450a864c&amp;secret=16705bc43e69dda5545f7ab78b649c17&amp;js_code=the code is a mock one&amp;grant_type=authorization_code): failed to open stream: HTTP request failed! code is a mock one&amp;grant_type=authorization_code HTTP/1.0 200 OK
+ C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 15 行.
+NOTIC: [2] get_object_vars() expects parameter 1 to be object, null given C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000936s ]
+
+[ 2018-11-11T20:39:52+08:00 ] 111.37.21.151 /tsg/index.php/Home/Wechat/code/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `appointment` WHERE `openid` = null AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `user` WHERE `openid` = null LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000727s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2018-11-11T20:40:05+08:00 ] 111.37.21.151 /tsg/index.php/Home/Wechat/openid/code/the%20code%20is%20a%20mock%20one
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/sns/jscode2session?appid=wx7e5fe95a450a864c&amp;secret=16705bc43e69dda5545f7ab78b649c17&amp;js_code=the code is a mock one&amp;grant_type=authorization_code): failed to open stream: HTTP request failed! code is a mock one&amp;grant_type=authorization_code HTTP/1.0 200 OK
+ C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 15 行.
+NOTIC: [2] get_object_vars() expects parameter 1 to be object, null given C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000824s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000869s ]
+
+[ 2018-11-11T20:40:05+08:00 ] 111.37.21.151 /tsg/index.php/Home/Wechat/code/openid/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid C:\xampp\htdocs\tsg\Application\Home\Controller\WechatController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0425s ]
+SQL: SELECT * FROM `appointment` WHERE `openid` = null AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `user` WHERE `openid` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001068s ]
+
+[ 2018-11-11T20:49:12+08:00 ] 180.163.220.66 /tsg/index.php/home/wechart/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载控制器:Wechart
+
+[ 2018-11-11T20:49:18+08:00 ] 42.236.10.124 /tsg/index.php/home/wechart/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载控制器:Wechart
+
+[ 2018-11-11T21:20:12+08:00 ] 42.236.10.78 /tsg/index.php/Home/Wechart/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载控制器:Wechart
+
+[ 2018-11-11T21:20:22+08:00 ] 180.163.220.68 /tsg/index.php/Home/Wechart/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+ERR: 无法加载控制器:Wechart
+

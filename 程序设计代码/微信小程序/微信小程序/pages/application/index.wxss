@@ -1,0 +1,67 @@
+/* pages/application/index.wxss */
+
+.icon{
+  width: 90rpx;
+  height: 90rpx;
+  
+}
+.icon-box{
+  height: 120rpx;
+  width: 90rpx;
+  text-align: center;
+  margin: 20rpx;
+}
+.button{
+  display: flex;
+  flex-direction: row;
+  justify-content:  space-between;
+  margin: 20rpx 0;
+  padding: 0 10rpx;
+}
+.floor{
+  
+  height: 80rpx;
+  text-align: center;
+  background-color: #fff
+}
+.separate {
+  height: 20rpx;
+  background-color: #f2f2f2;
+}
+
+.group{
+  display: flex;
+  flex-direction: row;
+  justify-content:  flex-start;
+  flex-wrap:  wrap;
+  margin-left: 50rpx;
+}
+.seatid{
+  font-size: 12px;
+}
+.seat_select{ 
+  
+  height: 140rpx;
+  
+  width:100%; 
+  color:green; 
+  position:fixed; 
+  bottom:0; 
+  background-color: #f2f2f2
+} 
+
+.btn-ok{
+  margin-top: 10rpx;
+
+  width:100%; 
+  height: 80rpx;
+  text-align: center;
+  position:fixed; 
+  bottom:0; 
+  background-color: #FFC1C1
+ 
+
+}
+.btn-ok-text{
+padding-top: 14rpx;
+}
